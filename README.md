@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://holopin.io/@talhaai
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=talhaai)](https://holopin.io/@talhaai)
+
